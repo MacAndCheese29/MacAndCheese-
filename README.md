@@ -19,8 +19,8 @@
 <h3 align="center">GitHub Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=MacAndCheese29&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MacAndCheese2&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MacAndCheese2&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MacAndCheese29&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MacAndCheese29&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
