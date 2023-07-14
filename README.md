@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Machine Learning and Competitive Programmer from India</h3>
+<h3 align="center">Competitive Programmer and ML Enthusiast from India</h3>
 
 
 
